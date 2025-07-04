@@ -10,8 +10,6 @@ Built with **Spring Boot**, using **Maven**, with support for **Postman testing*
 - Java 17
 - Spring Boot
 - Maven
-- JPA (Hibernate)
-- MySQL / H2
 - Lombok
 - Postman (manual/automated API testing)
 - TestNG (for Selenium)
